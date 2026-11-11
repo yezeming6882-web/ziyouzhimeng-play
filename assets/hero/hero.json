@@ -48,10 +48,82 @@
     "y": 0.968439
    }
   },
-  "attack_0": {
+  "idle_2": {
    "frame": {
     "x": 0,
     "y": 1204,
+    "w": 1256,
+    "h": 1204
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1256,
+    "h": 1204
+   },
+   "sourceSize": {
+    "w": 1256,
+    "h": 1204
+   },
+   "anchor": {
+    "x": 0.34793,
+    "y": 0.968439
+   }
+  },
+  "idle_3": {
+   "frame": {
+    "x": 1256,
+    "y": 1204,
+    "w": 1256,
+    "h": 1204
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1256,
+    "h": 1204
+   },
+   "sourceSize": {
+    "w": 1256,
+    "h": 1204
+   },
+   "anchor": {
+    "x": 0.34793,
+    "y": 0.968439
+   }
+  },
+  "idle_4": {
+   "frame": {
+    "x": 0,
+    "y": 2408,
+    "w": 1256,
+    "h": 1204
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 1256,
+    "h": 1204
+   },
+   "sourceSize": {
+    "w": 1256,
+    "h": 1204
+   },
+   "anchor": {
+    "x": 0.34793,
+    "y": 0.968439
+   }
+  },
+  "attack_0": {
+   "frame": {
+    "x": 1256,
+    "y": 2408,
     "w": 1256,
     "h": 1204
    },
@@ -74,8 +146,8 @@
   },
   "attack_1": {
    "frame": {
-    "x": 1256,
-    "y": 1204,
+    "x": 0,
+    "y": 3612,
     "w": 1256,
     "h": 1204
    },
@@ -98,8 +170,8 @@
   },
   "hit_0": {
    "frame": {
-    "x": 0,
-    "y": 2408,
+    "x": 1256,
+    "y": 3612,
     "w": 1256,
     "h": 1204
    },
@@ -122,8 +194,8 @@
   },
   "hit_1": {
    "frame": {
-    "x": 1256,
-    "y": 2408,
+    "x": 0,
+    "y": 4816,
     "w": 1256,
     "h": 1204
    },
@@ -146,8 +218,8 @@
   },
   "cast_0": {
    "frame": {
-    "x": 0,
-    "y": 3612,
+    "x": 1256,
+    "y": 4816,
     "w": 1256,
     "h": 1204
    },
@@ -170,8 +242,8 @@
   },
   "cast_1": {
    "frame": {
-    "x": 1256,
-    "y": 3612,
+    "x": 0,
+    "y": 6020,
     "w": 1256,
     "h": 1204
    },
@@ -196,7 +268,7 @@
  "meta": {
   "app": "ziyouzhimeng-art",
   "scale": "1",
-  "note": "C1 蓝金仙门弟子, character-only frames (FX separate). Hit leans back, no turn. 2026-11-11.",
+  "note": "C1 蓝金仙门弟子. 5-frame idle by cloth warp of idle_0, feet/head/blade locked, Phaser yoyo ~1s @8fps. Hit leans back, no turn. FX separate. 2026-11-11.",
   "defaultAnchorPx": {
    "x": 437,
    "y": 1166
@@ -208,12 +280,26 @@
    "w": 1256,
    "h": 1204
   },
+  "idleFrames": 5,
+  "idleFps": 8,
   "anchorsPx": {
    "idle_0": {
     "x": 437.0,
     "y": 1166.0
    },
    "idle_1": {
+    "x": 437.0,
+    "y": 1166.0
+   },
+   "idle_2": {
+    "x": 437.0,
+    "y": 1166.0
+   },
+   "idle_3": {
+    "x": 437.0,
+    "y": 1166.0
+   },
+   "idle_4": {
     "x": 437.0,
     "y": 1166.0
    },
@@ -244,7 +330,7 @@
   },
   "size": {
    "w": 2512,
-   "h": 4816
+   "h": 7224
   },
   "image": "hero.png"
  }
