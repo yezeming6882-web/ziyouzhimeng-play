@@ -116,7 +116,7 @@
     "h": 1204
    },
    "anchor": {
-    "x": 0.34793,
+    "x": 0.41879,
     "y": 0.968439
    }
   },
@@ -195,14 +195,9 @@
  },
  "meta": {
   "app": "ziyouzhimeng-art",
-  "image": "hero.png",
-  "size": {
-   "w": 2512,
-   "h": 4816
-  },
   "scale": "1",
-  "note": "C1 蓝金仙门弟子, 2 frames/action, 0.5s. Foot-anchored. 2026-11-11.",
-  "anchorPx": {
+  "note": "C1 蓝金仙门弟子, character-only frames (FX separate). Foot-anchored, per-frame pivot. 2026-11-11.",
+  "defaultAnchorPx": {
    "x": 437,
    "y": 1166
   },
@@ -212,6 +207,45 @@
   "frame": {
    "w": 1256,
    "h": 1204
-  }
+  },
+  "anchorsPx": {
+   "idle_0": {
+    "x": 437,
+    "y": 1166
+   },
+   "idle_1": {
+    "x": 437,
+    "y": 1166
+   },
+   "attack_0": {
+    "x": 437,
+    "y": 1166
+   },
+   "attack_1": {
+    "x": 437,
+    "y": 1166
+   },
+   "hit_0": {
+    "x": 526.0,
+    "y": 1166.0
+   },
+   "hit_1": {
+    "x": 437.0,
+    "y": 1166.0
+   },
+   "cast_0": {
+    "x": 437,
+    "y": 1166
+   },
+   "cast_1": {
+    "x": 437,
+    "y": 1166
+   }
+  },
+  "size": {
+   "w": 2512,
+   "h": 4816
+  },
+  "image": "hero.png"
  }
 }

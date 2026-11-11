@@ -1,0 +1,110 @@
+{
+ "frames": {
+  "slash": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 750,
+    "h": 559
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 750,
+    "h": 559
+   },
+   "sourceSize": {
+    "w": 750,
+    "h": 559
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "gather": {
+   "frame": {
+    "x": 758,
+    "y": 0,
+    "w": 526,
+    "h": 640
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 526,
+    "h": 640
+   },
+   "sourceSize": {
+    "w": 526,
+    "h": 640
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "projectile": {
+   "frame": {
+    "x": 0,
+    "y": 648,
+    "w": 768,
+    "h": 188
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 768,
+    "h": 188
+   },
+   "sourceSize": {
+    "w": 768,
+    "h": 188
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  },
+  "burst": {
+   "frame": {
+    "x": 776,
+    "y": 648,
+    "w": 610,
+    "h": 640
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 610,
+    "h": 640
+   },
+   "sourceSize": {
+    "w": 610,
+    "h": 640
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   }
+  }
+ },
+ "meta": {
+  "app": "ziyouzhimeng-art",
+  "image": "fx.png",
+  "size": {
+   "w": 1386,
+   "h": 1288
+  },
+  "scale": "1",
+  "note": "Independent battle FX (slash, gather, projectile, burst). 2026-11-11."
+ }
+}
