@@ -4,192 +4,192 @@
    "frame": {
     "x": 0,
     "y": 0,
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "rotated": false,
    "trimmed": false,
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "sourceSize": {
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "anchor": {
-    "x": 0.5,
-    "y": 1
+    "x": 0.34793,
+    "y": 0.968439
    }
   },
   "idle_1": {
    "frame": {
-    "x": 500,
+    "x": 1256,
     "y": 0,
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "rotated": false,
    "trimmed": false,
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "sourceSize": {
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "anchor": {
-    "x": 0.5,
-    "y": 1
+    "x": 0.34793,
+    "y": 0.968439
    }
   },
   "attack_0": {
    "frame": {
     "x": 0,
-    "y": 440,
-    "w": 500,
-    "h": 440
+    "y": 1204,
+    "w": 1256,
+    "h": 1204
    },
    "rotated": false,
    "trimmed": false,
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "sourceSize": {
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "anchor": {
-    "x": 0.5,
-    "y": 1
+    "x": 0.34793,
+    "y": 0.968439
    }
   },
   "attack_1": {
    "frame": {
-    "x": 500,
-    "y": 440,
-    "w": 500,
-    "h": 440
+    "x": 1256,
+    "y": 1204,
+    "w": 1256,
+    "h": 1204
    },
    "rotated": false,
    "trimmed": false,
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "sourceSize": {
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "anchor": {
-    "x": 0.5,
-    "y": 1
+    "x": 0.34793,
+    "y": 0.968439
    }
   },
   "hit_0": {
    "frame": {
     "x": 0,
-    "y": 880,
-    "w": 500,
-    "h": 440
+    "y": 2408,
+    "w": 1256,
+    "h": 1204
    },
    "rotated": false,
    "trimmed": false,
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "sourceSize": {
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "anchor": {
-    "x": 0.5,
-    "y": 1
+    "x": 0.34793,
+    "y": 0.968439
    }
   },
   "hit_1": {
    "frame": {
-    "x": 500,
-    "y": 880,
-    "w": 500,
-    "h": 440
+    "x": 1256,
+    "y": 2408,
+    "w": 1256,
+    "h": 1204
    },
    "rotated": false,
    "trimmed": false,
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "sourceSize": {
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "anchor": {
-    "x": 0.5,
-    "y": 1
+    "x": 0.34793,
+    "y": 0.968439
    }
   },
   "cast_0": {
    "frame": {
     "x": 0,
-    "y": 1320,
-    "w": 500,
-    "h": 440
+    "y": 3612,
+    "w": 1256,
+    "h": 1204
    },
    "rotated": false,
    "trimmed": false,
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "sourceSize": {
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "anchor": {
-    "x": 0.5,
-    "y": 1
+    "x": 0.34793,
+    "y": 0.968439
    }
   },
   "cast_1": {
    "frame": {
-    "x": 500,
-    "y": 1320,
-    "w": 500,
-    "h": 440
+    "x": 1256,
+    "y": 3612,
+    "w": 1256,
+    "h": 1204
    },
    "rotated": false,
    "trimmed": false,
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "sourceSize": {
-    "w": 500,
-    "h": 440
+    "w": 1256,
+    "h": 1204
    },
    "anchor": {
-    "x": 0.5,
-    "y": 1
+    "x": 0.34793,
+    "y": 0.968439
    }
   }
  },
@@ -197,10 +197,21 @@
   "app": "ziyouzhimeng-art",
   "image": "hero.png",
   "size": {
-   "w": 1000,
-   "h": 1760
+   "w": 2512,
+   "h": 4816
   },
   "scale": "1",
-  "note": "2 frames per action, 0.5s each (2026-11-11). picks: {\"idle\": [0, 3], \"attack\": [1, 3], \"hit\": [1, 4], \"cast\": [1, 4]}"
+  "note": "C1 蓝金仙门弟子, 2 frames/action, 0.5s. Foot-anchored. 2026-11-11.",
+  "anchorPx": {
+   "x": 437,
+   "y": 1166
+  },
+  "heroBodyRatio": 0.9369,
+  "heroSpriteHeight": 290,
+  "halfW_display": 74.2,
+  "frame": {
+   "w": 1256,
+   "h": 1204
+  }
  }
 }
