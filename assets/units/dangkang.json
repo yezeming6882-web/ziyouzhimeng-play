@@ -1,0 +1,140 @@
+{
+  "frames": {
+    "idle_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 360,
+        "h": 345
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 360,
+        "h": 345
+      },
+      "sourceSize": {
+        "w": 360,
+        "h": 345
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1.0
+      }
+    },
+    "idle_1": {
+      "frame": {
+        "x": 360,
+        "y": 0,
+        "w": 360,
+        "h": 345
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 360,
+        "h": 345
+      },
+      "sourceSize": {
+        "w": 360,
+        "h": 345
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1.0
+      }
+    },
+    "idle_2": {
+      "frame": {
+        "x": 720,
+        "y": 0,
+        "w": 360,
+        "h": 345
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 360,
+        "h": 345
+      },
+      "sourceSize": {
+        "w": 360,
+        "h": 345
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1.0
+      }
+    },
+    "idle_3": {
+      "frame": {
+        "x": 1080,
+        "y": 0,
+        "w": 360,
+        "h": 345
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 360,
+        "h": 345
+      },
+      "sourceSize": {
+        "w": 360,
+        "h": 345
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1.0
+      }
+    },
+    "idle_4": {
+      "frame": {
+        "x": 1440,
+        "y": 0,
+        "w": 360,
+        "h": 345
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 360,
+        "h": 345
+      },
+      "sourceSize": {
+        "w": 360,
+        "h": 345
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 1.0
+      }
+    }
+  },
+  "meta": {
+    "app": "ziyouzhimeng-art",
+    "image": "dangkang.png",
+    "size": {
+      "w": 1800,
+      "h": 345
+    },
+    "scale": "1",
+    "note": "当康 D3 白金铃饰待机：5 帧从原画变形，四蹄钉死，8fps yoyo 约 1s。帧 0 为定稿原画。2026-11-12.",
+    "idleFrames": 5,
+    "idleFps": 8,
+    "frame": {
+      "w": 360,
+      "h": 345
+    }
+  }
+}
